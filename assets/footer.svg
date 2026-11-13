@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 0 1200 100" role="img" aria-label="Thanks for visiting">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#07191B"/><stop offset="1" stop-color="#176259"/></linearGradient></defs>
-<rect width="1200" height="100" rx="20" fill="url(#bg)"/>
-<path d="M0 20C250 80 400 5 610 45S970 90 1200 20" fill="none" stroke="#66D8C4" stroke-opacity=".2" stroke-width="3"/>
-<text x="600" y="59" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#A9E8DB">Thanks for visiting  •  Let's build something great.</text>
-</svg>
