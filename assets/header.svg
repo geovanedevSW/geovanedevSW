@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="Hi, I'm Geovane — Full Stack Development, Automation and AI">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#041F23"/><stop offset=".54" stop-color="#063C3A"/><stop offset="1" stop-color="#006253"/></linearGradient>
+  <radialGradient id="aura"><stop stop-color="#0CB69A" stop-opacity=".35"/><stop offset="1" stop-color="#0CB69A" stop-opacity="0"/></radialGradient>
+  <linearGradient id="window" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#083A3D"/><stop offset="1" stop-color="#04282C"/></linearGradient>
+  <linearGradient id="cap" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#148C78"/><stop offset="1" stop-color="#063C3B"/></linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#4AE1C5" stroke-opacity=".085" stroke-width="1"/></pattern>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="round"><rect width="1200" height="400" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#round)">
+  <rect width="1200" height="400" fill="url(#bg)"/>
+  <rect width="1200" height="400" fill="url(#grid)"/>
+  <circle cx="790" cy="195" r="320" fill="url(#aura)"/>
+  <circle cx="1045" cy="230" r="310" fill="url(#aura)"/>
+  <!-- Fine orbital UI graphics -->
+  <circle cx="743" cy="184" r="118" fill="none" stroke="#2CE0BE" stroke-opacity=".19" stroke-width="2"/>
+  <circle cx="743" cy="184" r="80" fill="none" stroke="#2CE0BE" stroke-opacity=".14" stroke-width="2"/>
+  <circle cx="743" cy="184" r="10" fill="#28CFB4" opacity=".85"/>
+  <path d="M610 184H870 M743 48V322" stroke="#32D7B6" stroke-opacity=".09"/>
+  <path d="M748 337C893 381 1098 330 1158 178" fill="none" stroke="#42E8C5" stroke-opacity=".55" stroke-width="1.7"/>
+  <path d="M910 115C995 14 1101 45 1164 98" fill="none" stroke="#42E8C5" stroke-opacity=".65" stroke-width="1.7"/>
+  <circle cx="806" cy="342" r="6" fill="#66FFE1" filter="url(#glow)"/>
+  <circle cx="1041" cy="59" r="7" fill="#66FFE1" filter="url(#glow)"/>
+  <!-- Main text -->
+  <rect x="54" y="83" width="193" height="32" rx="16" fill="#0E6159" stroke="#50DEC4" stroke-opacity=".53"/>
+  <text x="150" y="104" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="1.5" text-anchor="middle" fill="#BEFFF0">SOFTWARE ENGINEER</text>
+  <text x="54" y="182" font-family="Arial,Helvetica,sans-serif" font-size="55" font-weight="700" fill="#FFFFFF">Hi, I'm Geovane</text>
+  <text x="56" y="226" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#B0EEE2">Full Stack Development</text>
+  <text x="56" y="256" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#B0EEE2">Automation  •  AI</text>
+  <rect x="56" y="281" width="307" height="3" rx="1.5" fill="#49E4C6"/>
+  <text x="56" y="313" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#D3F5ED">Building practical solutions,</text>
+  <text x="56" y="333" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#D3F5ED">one project at a time.</text>
+  <!-- Code editor vector -->
+  <g transform="translate(742 122)">
+    <rect width="322" height="193" rx="18" fill="url(#window)" stroke="#41E3C6" stroke-width="2"/>
+    <path d="M18 0H304Q322 0 322 18V32H0V18Q0 0 18 0" fill="url(#cap)"/>
+    <circle cx="20" cy="16" r="5" fill="#6AFADE"/><circle cx="38" cy="16" r="5" fill="#6AFADE"/><circle cx="56" cy="16" r="5" fill="#6AFADE"/>
+    <path d="M63 32V193" stroke="#3AD1B6" stroke-opacity=".24"/>
+    <g fill="#1E8F80" opacity=".85"><circle cx="18" cy="52" r="4"/><circle cx="18" cy="73" r="4"/><circle cx="18" cy="94" r="4"/><circle cx="18" cy="115" r="4"/><circle cx="18" cy="136" r="4"/><circle cx="18" cy="157" r="4"/></g>
+    <g fill="#2DA68F" opacity=".8"><rect x="31" y="49" width="22" height="5" rx="2.5"/><rect x="31" y="70" width="17" height="5" rx="2.5"/><rect x="31" y="91" width="21" height="5" rx="2.5"/><rect x="31" y="112" width="16" height="5" rx="2.5"/><rect x="31" y="133" width="19" height="5" rx="2.5"/></g>
+    <g fill="#24B79C"><circle cx="80" cy="54" r="3"/><circle cx="80" cy="78" r="3"/><circle cx="80" cy="102" r="3"/><circle cx="80" cy="126" r="3"/><circle cx="80" cy="150" r="3"/></g>
+    <g stroke-linecap="round" stroke-width="6" fill="none"><path d="M95 54H143" stroke="#78FFE4"/><path d="M152 54H174" stroke="#1CA88E"/><path d="M113 78H158" stroke="#27BD9F"/><path d="M166 78H210" stroke="#148F7D"/><path d="M95 102H111" stroke="#2ABAA1"/><path d="M120 102H207" stroke="#31D6B6"/><path d="M215 102H265" stroke="#125C54"/><path d="M95 126H148" stroke="#77FFE2"/><path d="M157 126H188" stroke="#21B49A"/><path d="M113 150H138" stroke="#29C3A6"/><path d="M146 150H207" stroke="#1FAE96"/><path d="M95 174H175" stroke="#178F7F"/><path d="M183 174H227" stroke="#125E54"/></g>
+  </g>
+  <!-- Floating terminal -->
+  <g transform="translate(686 269)"><rect width="122" height="83" rx="13" fill="#06483F" stroke="#66FFE1" stroke-width="1.5"/><path d="M13 0H109Q122 0 122 13V22H0V13Q0 0 13 0" fill="#137C6B"/><circle cx="13" cy="11" r="3" fill="#91FFE9"/><circle cx="24" cy="11" r="3" fill="#91FFE9"/><circle cx="35" cy="11" r="3" fill="#91FFE9"/><path d="M31 42l14 13-14 13 M52 68h20" fill="none" stroke="#78FFE2" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <!-- Floating symbols -->
+  <g transform="translate(971 68)"><rect width="84" height="65" rx="14" fill="#075248" stroke="#58F4D1" stroke-width="1.6"/><text x="42" y="44" font-family="monospace" font-size="32" text-anchor="middle" font-weight="700" fill="#75FFE4">&lt;/&gt;</text></g>
+  <g transform="translate(1026 268)"><rect width="71" height="68" rx="14" fill="#075248" stroke="#58F4D1" stroke-width="1.6"/><text x="35" y="47" font-family="monospace" font-size="37" text-anchor="middle" fill="#75FFE4">{ }</text></g>
+  <g fill="#68F5D7" opacity=".8"><circle cx="827" cy="73" r="2"/><circle cx="839" cy="73" r="2"/><circle cx="851" cy="73" r="2"/><circle cx="863" cy="73" r="2"/><circle cx="827" cy="86" r="2"/><circle cx="839" cy="86" r="2"/><circle cx="851" cy="86" r="2"/><circle cx="863" cy="86" r="2"/><circle cx="658" cy="303" r="2"/><circle cx="670" cy="303" r="2"/><circle cx="658" cy="316" r="2"/><circle cx="670" cy="316" r="2"/></g>
+</g>
+</svg>
