@@ -1,41 +1,56 @@
-# Hi, I'm Geovane 👋
+<div align="center">
+  <img src="assets/header.svg" alt="Hi, I'm Geovane — Full Stack Development, Automation and AI" width="100%" />
+  <br /><br />
+  <a href="https://linkedin.com/in/geovanevinicios"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-103A38?style=for-the-badge&logo=linkedin&logoColor=7AE5CF" /></a>
+  <a href="mailto:gviniciossalesp@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-103A38?style=for-the-badge&logo=gmail&logoColor=7AE5CF" /></a>
+</div>
 
-Software Engineering student focused on **Full Stack development**, building projects with **JavaScript, TypeScript, React, Node.js, and Express**.
+<br />
+
+## About Me
+
+I'm a **Software Engineering student** focused on **Full Stack development**, building projects with **JavaScript, TypeScript, React, Node.js, and Express**.
 
 I enjoy turning what I learn into practical projects and exploring **automation, data, and AI** along the way.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/geovanevinicios)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gviniciossalesp@gmail.com)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" height="17" alt="Education" /> Software Engineering student
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="17" alt="React" /> Learning and building Full Stack applications
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="17" alt="SQL" /> Experience with SQL, data analysis, and automation
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="17" alt="AI and automation" /> Exploring AI and its practical applications
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="17" alt="GitHub" /> Working toward a Junior Software Developer role
 
-- 🎓 Software Engineering student
-- 💻 Learning and building Full Stack applications
-- 📊 Experience with SQL, data analysis, and automation
-- 🤖 Exploring AI and its practical applications
-- 🎯 Working toward a Junior Software Developer role
-
----
-
-## 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<br clear="right" />
 
 ---
 
-## 📚 Currently Learning
+## Tech Stack
 
-**Full Stack Development** · Software Architecture · Design Patterns · Testing · Automation · AI
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,tailwind,git&theme=dark" alt="JavaScript, TypeScript, React, Node.js, Express, MongoDB, Tailwind CSS and Git" />
+</div>
 
 ---
 
-## 📊 GitHub
+## Currently Learning
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geovanedevSW&show_icons=true&hide_title=true&hide_border=true)
+<div align="center">
+  <img src="https://img.shields.io/badge/Full_Stack_Development-123B39?style=for-the-badge&logo=react&logoColor=7AE5CF" />
+  <img src="https://img.shields.io/badge/Software_Architecture-123B39?style=for-the-badge&logo=diagramsdotnet&logoColor=7AE5CF" />
+  <img src="https://img.shields.io/badge/Design_Patterns-123B39?style=for-the-badge&logo=thealgorithms&logoColor=7AE5CF" />
+  <img src="https://img.shields.io/badge/Testing-123B39?style=for-the-badge&logo=jest&logoColor=7AE5CF" />
+  <img src="https://img.shields.io/badge/Automation-123B39?style=for-the-badge&logo=githubactions&logoColor=7AE5CF" />
+  <img src="https://img.shields.io/badge/AI-123B39?style=for-the-badge&logo=openai&logoColor=7AE5CF" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geovanedevSW&layout=compact&hide_border=true)
+---
+
+## GitHub
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=geovanedevSW&show_icons=true&hide_title=true&hide_border=true&bg_color=0C2527&title_color=79E9D1&text_color=D9F0EB&icon_color=48CBB4" alt="Geovane GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanedevSW&layout=compact&hide_border=true&bg_color=0C2527&title_color=79E9D1&text_color=D9F0EB" alt="Most used languages" />
+</div>
+
+<br />
+
+<div align="center"><img src="assets/footer.svg" alt="Thanks for visiting" width="100%" /></div>
